@@ -1,8 +1,5 @@
 <?php
 
-
-require_once __DIR__ .'/FieldsValidator.php';
-
 abstract class SQLQuery {
 
 	protected $query;

@@ -1,9 +1,5 @@
 <?php
 
-
-
-require_once __DIR__ . '/SQLQuery.php';
-
 class SelectSQLQuery extends SQLQuery {
 
 

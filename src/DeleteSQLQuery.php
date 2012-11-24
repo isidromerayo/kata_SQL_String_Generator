@@ -1,7 +1,5 @@
 <?php
 
-require_once __DIR__ . '/SQLQuery.php';
-
 class DeleteSQLQuery extends SQLQuery {
 
 	public function __toString() {

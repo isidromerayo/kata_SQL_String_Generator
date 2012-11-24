@@ -1,7 +1,5 @@
 <?php
 
-require_once __DIR__ .'/FieldsValidator.php';
-
 class SQLGenerator {
 
 	private $metadata;
