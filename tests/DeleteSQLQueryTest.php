@@ -1,7 +1,5 @@
 <?php
 
-require_once __DIR__ . '/../src/DeleteSQLQuery.php';
-
 class DeleteSQLQueryTest extends PHPUnit_Framework_TestCase {
 
   public function testItDeletesLimited() {

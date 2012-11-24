@@ -1,7 +1,5 @@
 <?php
 
-require_once __DIR__ . '/../src/SelectSQLQuery.php';
-
 class SelectSQLQueryTest extends PHPUnit_Framework_TestCase {
 
   private $metadata;

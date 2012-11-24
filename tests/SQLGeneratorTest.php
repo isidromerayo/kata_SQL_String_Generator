@@ -1,8 +1,6 @@
 <?php
 
 
-require_once __DIR__ . '/../src/SQLGenerator.php';
-
 class SQLGeneratorTest extends \PHPUnit_Framework_TestCase {
 
   // SUT

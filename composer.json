@@ -1,0 +1,26 @@
+{
+    "name": "isidromerayo/kata_sql_string_generator",
+    "description": "Kata PHP SQL String Generator",
+    "keywords": ["kata","composer","TDD","PHPUnit","Test Doubles"],
+    "homepage": "http://www.solveet.com/exercises/SQL-String-Generator/139",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Isidro Merayo Castellano",
+            "homepage": "https://bitbucket.org/isidromerayo"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3",
+        "phpunit/phpunit": "3.7.x-dev"
+    },
+    "autoload": {
+        "psr-0": {
+            "": "src/"
+        }
+    },
+    "config": {
+        "bin-dir": "vendor/bin"
+    }
+}
